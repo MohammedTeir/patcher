@@ -1,0 +1,14 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: target.apk
+compressionType: false
+doNotCompress: null
+isFrameworkApk: false
+packageInfo: null
+sdkInfo:
+  minSdkVersion: '23'
+sharedLibrary: false
+sparseResources: false
+unknownFiles: {}
+usesFramework: null
+version: 2.7.0-dirty
+versionInfo: null
